@@ -1,0 +1,7 @@
+mcf = run1 ; outfile = MotionOutliers/run1_ConfMatrix_DVARS ; ndel = 0 ; mask =  ; do_moco = yes ; thresh = 50 ; use_thresh = yes ; metric = dvars
+brainmed = 605.000000  ; maskmean = 0.469336 
+Calculating outliers
+Range of metric values: 20.587645 65.234650 
+Found 10 outliers over 50
+Generating EVs
+Found spikes at  159 165 169 182 183 192 236 237 335 336

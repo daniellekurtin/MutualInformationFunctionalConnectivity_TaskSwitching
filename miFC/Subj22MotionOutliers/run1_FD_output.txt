@@ -1,0 +1,7 @@
+mcf = run1 ; outfile = MotionOutliers/run1_ConfMatrix_FD ; ndel = 0 ; mask =  ; do_moco = yes ; thresh = 0.2 ; use_thresh = yes ; metric = fd
+brainmed = 523.000000  ; maskmean = 0.372677 
+Calculating outliers
+Range of metric values: 0.003239 0.199492 
+Found 0 outliers over 0.2
+Generating EVs
+Found spikes at 
