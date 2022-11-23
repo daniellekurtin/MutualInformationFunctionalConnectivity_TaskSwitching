@@ -1,0 +1,18 @@
+
+"High Visual 1"
+"Visuospatial 1"
+"Sensorimotor 1"
+"RECN 1"
+"RECN 2"
+"LECN 1"
+"Anterior Salience 1"
+"Basal_Ganglia 1"
+"Basal_Ganglia 2"
+"Basal_Ganglia 3"
+"Anterior Salience 2"
+"RECN 3"
+"RECN 4"
+"Post Salience 1"
+"Visuospatial 2"
+"Anterior Salience 3"
+

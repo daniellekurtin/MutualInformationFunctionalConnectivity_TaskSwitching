@@ -1,0 +1,12 @@
+
+"vDMN 1"
+"Visuospatial 1"
+"Visuospatial 2"
+"vDMN 2"
+"Anterior Salience 1"
+"vDMN 3"
+"dDMN 1"
+"Sensorimotor 1"
+"Sensorimotor 2"
+"Visuospatial 3"
+"Visuospatial 4"
